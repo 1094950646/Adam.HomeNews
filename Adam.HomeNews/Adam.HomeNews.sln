@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adam.HomeNews", "Adam.HomeNews\Adam.HomeNews.csproj", "{BCC8ADAA-27AF-4CDA-BEE0-78885B00EE5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeNews.Api", "HomeNews.Api\HomeNews.Api.csproj", "{81E9F82A-4F74-4971-BC04-8E6918403EC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeNews.Data", "HomeNews.Data\HomeNews.Data.csproj", "{45512442-6C42-4432-86CF-D93EF9AB3B26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC8ADAA-27AF-4CDA-BEE0-78885B00EE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC8ADAA-27AF-4CDA-BEE0-78885B00EE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC8ADAA-27AF-4CDA-BEE0-78885B00EE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC8ADAA-27AF-4CDA-BEE0-78885B00EE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E9F82A-4F74-4971-BC04-8E6918403EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E9F82A-4F74-4971-BC04-8E6918403EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E9F82A-4F74-4971-BC04-8E6918403EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E9F82A-4F74-4971-BC04-8E6918403EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45512442-6C42-4432-86CF-D93EF9AB3B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45512442-6C42-4432-86CF-D93EF9AB3B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45512442-6C42-4432-86CF-D93EF9AB3B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45512442-6C42-4432-86CF-D93EF9AB3B26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
